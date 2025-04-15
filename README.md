@@ -1,0 +1,1 @@
+This is a The Odin Project site to understand basic GitHub and HTML functionalities.
